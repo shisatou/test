@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="shingo_test" max_length="40" name="x_217401_shingo_ne_test" type="collection"/>
+</database>
